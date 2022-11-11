@@ -26,14 +26,6 @@ The website will be built using the MERN (MongoDB, Express, React and Node) stac
 
   * Zachariya Javeri - zachariyaJaveri
 
-  * Hadjer Hamlat - HadjerHamlat
-
-  * Omar Tawil - SSpaceApe
-
-  * Mitchel Scott-Bond - mitchelscottbond
-
   * Ankita Ingle - ingleankita 
-
-  * Gabriel Brodeur - Kitchen Ace
 
   * Hugh McKenzie - hughmck
